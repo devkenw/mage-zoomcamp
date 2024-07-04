@@ -172,3 +172,6 @@ scratch*
 magic-zoomcamp
 *.json
 
+# data file
+*.csv
+*.parquet
